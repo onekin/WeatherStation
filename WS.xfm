@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <cm:consulmodel xmlns:cm="http://www.pure-systems.com/consul/model" cm:id="iZDYEoOJvFKXojv_z" cm:version="1.5" cm:type="ps:fm">
   <cm:head>
     <cm:properties>
@@ -32,12 +31,6 @@
           <cm:target cm:id="iEhEYa5gwqdMQD8Nw">./iBFyOWLYHFpADbYjX</cm:target>
         </cm:relation>
       </cm:relations>
-      <cm:properties>
-        
-        
-        
-        
-      </cm:properties>
       <cm:vname>
         <cm:mimedesc cm:id="i7Prw9uTUynC6lr78" cm:mimetype="text/plain" cm:encoding="utf-8">Weather Station</cm:mimedesc>
         <cm:mimedesc cm:id="i1f4VGBG85s5_mDVx" cm:mimetype="text/plain" cm:lang="de" cm:encoding="utf-8">Wetterstation</cm:mimedesc>
@@ -52,12 +45,6 @@
           <cm:target cm:id="izpohVVXois1Ap-vi">./ir48hEVg8Y2CeMjeO</cm:target>
         </cm:relation>
       </cm:relations>
-      <cm:properties>
-        
-        
-        
-        
-      </cm:properties>
       <cm:vname>
         <cm:mimedesc cm:id="imsMJ7fYqk2w3JsMd" cm:mimetype="text/plain" cm:lang="de" cm:encoding="utf-8">Englisch</cm:mimedesc>
         <cm:mimedesc cm:id="iYKLsgq6HmfoMUwOe" cm:mimetype="text/plain" cm:encoding="utf-8">English</cm:mimedesc>
@@ -75,12 +62,6 @@
           <cm:target cm:id="izXURZuUTIiuXOYWu">./iBFyOWLYHFpADbYjX</cm:target>
         </cm:relation>
       </cm:relations>
-      <cm:properties>
-        
-        
-        
-        
-      </cm:properties>
       <cm:vname>
         <cm:mimedesc cm:id="iEbFTNJNev65_lpoh" cm:mimetype="text/plain" cm:encoding="utf-8">Gale / Strong Wind</cm:mimedesc>
         <cm:mimedesc cm:id="iD7DyxnORH6QCYe8W" cm:mimetype="text/plain" cm:lang="de" cm:encoding="utf-8">Sturm / Starker Wind</cm:mimedesc>
@@ -95,12 +76,6 @@
           <cm:target cm:id="iKby1YUodb-G5xrKm">./ir48hEVg8Y2CeMjeO</cm:target>
         </cm:relation>
       </cm:relations>
-      <cm:properties>
-        
-        
-        
-        
-      </cm:properties>
       <cm:vname>
         <cm:mimedesc cm:id="itxmDPlpP1l4Ed8wA" cm:mimetype="text/plain" cm:lang="de" cm:encoding="utf-8">Deutsch</cm:mimedesc>
         <cm:mimedesc cm:id="i0Yo-wdFvQgQOeTvT" cm:mimetype="text/plain" cm:encoding="utf-8">German</cm:mimedesc>
@@ -118,12 +93,6 @@
           <cm:target cm:id="iVovKhF6CFP31Se0V">./iBFyOWLYHFpADbYjX</cm:target>
         </cm:relation>
       </cm:relations>
-      <cm:properties>
-        
-        
-        
-        
-      </cm:properties>
       <cm:vname>
         <cm:mimedesc cm:id="i7vbjiLd0L9d4rxod" cm:mimetype="text/plain" cm:lang="de" cm:encoding="utf-8">Wärme</cm:mimedesc>
         <cm:mimedesc cm:id="iHIxcWeUsE8PgRK-B" cm:mimetype="text/plain" cm:encoding="utf-8">Heat</cm:mimedesc>
@@ -144,10 +113,6 @@
         </cm:relation>
       </cm:relations>
       <cm:properties>
-        
-        
-        
-        
         <cm:property cm:id="iyEiEevX1mqjKK4Ln" cm:type="ps:integer" cm:name="max">
           <cm:constant cm:id="iD31AzT2GENrMNHZr" cm:type="ps:integer">60</cm:constant>
         </cm:property>
@@ -169,12 +134,6 @@
           <cm:target cm:id="irlOd__5QTnNNhdAv">./i3o2RSj4Fg7d7nNlj</cm:target>
         </cm:relation>
       </cm:relations>
-      <cm:properties>
-        
-        
-        
-        
-      </cm:properties>
       <cm:vname>
         <cm:mimedesc cm:id="iNaEVHPpRSnCvL5NI" cm:mimetype="text/plain" cm:lang="de" cm:encoding="utf-8">Windgeschwindigkeit</cm:mimedesc>
         <cm:mimedesc cm:id="iHWi1wrCb1MsyFaO5" cm:mimetype="text/plain" cm:encoding="utf-8">Wind Speed</cm:mimedesc>
@@ -193,12 +152,6 @@
           <cm:target cm:id="iP6uA8pDxUM5eb100">./iwG8HrEyXal5SlgdL</cm:target>
         </cm:relation>
       </cm:relations>
-      <cm:properties>
-        
-        
-        
-        
-      </cm:properties>
       <cm:vname>
         <cm:mimedesc cm:id="iHKHrEIoXrAcR4ZEU" cm:mimetype="text/plain" cm:lang="de" cm:encoding="utf-8">Warnungen</cm:mimedesc>
         <cm:mimedesc cm:id="iOZHYRGxXpyRB40We" cm:mimetype="text/plain" cm:encoding="utf-8">Warnings</cm:mimedesc>
@@ -218,12 +171,6 @@
           <cm:target cm:id="iE0jxNQg6nWFRQiKC">./iFIt10gOEo9ATa8dr</cm:target>
         </cm:relation>
       </cm:relations>
-      <cm:properties>
-        
-        
-        
-        
-      </cm:properties>
       <cm:vname>
         <cm:mimedesc cm:id="iX8lAzIG6w74gctlZ" cm:mimetype="text/plain" cm:lang="de" cm:encoding="utf-8">Sensoren</cm:mimedesc>
         <cm:mimedesc cm:id="iv63ZAbiv4NxJNSa2" cm:mimetype="text/plain" cm:encoding="utf-8">Sensors</cm:mimedesc>
@@ -237,16 +184,25 @@
         </cm:relation>
       </cm:relations>
       <cm:relations cm:id="i4qrqb1fvNO-J3H6C" cm:class="ps:children">
-        <cm:relation cm:id="iwp_T3MMzykeawDXy" cm:type="ps:alternative">
+        <cm:relation cm:id="iwp_T3MMzykeawDXy" cm:type="ps:alternative" cm:range="1">
           <cm:target cm:id="i0i0g4kG0cF9XGDre">./ii8D0Gk3FIhXMVm1w</cm:target>
           <cm:target cm:id="ixT59pXDjMq5jcpMX">./ilpiLoRjAhseJSQP4</cm:target>
+          <cm:target cm:id="iY16B_gLQgfQpWZnz">./iQICHKowTEMrEmbyq</cm:target>
         </cm:relation>
       </cm:relations>
       <cm:properties>
-        
-        
-        
-        
+        <cm:property cm:id="i8r9JQhhHf0Pf-lqy" cm:type="ps:string" cm:fixed="true" cm:readonly="true" cm:name="ps:Source">
+          <cm:constant cm:id="isisjP7GkZJkasKyY" cm:type="ps:string">Onekin</cm:constant>
+        </cm:property>
+        <cm:property cm:id="iaa2aSOl6-eLabsX9" cm:type="ps:datetime" cm:fixed="true" cm:readonly="true" cm:name="ps:Created">
+          <cm:constant cm:id="ib97Mbr_gz3fyEP_t" cm:type="ps:datetime">2017-06-05T16:22:09.958Z</cm:constant>
+        </cm:property>
+        <cm:property cm:id="i4c2jlatmGS5CKwWW" cm:type="ps:string" cm:fixed="true" cm:readonly="true" cm:name="ps:ChangedBy">
+          <cm:constant cm:id="iIWsZVYAh75OprOc_" cm:type="ps:string">Onekin</cm:constant>
+        </cm:property>
+        <cm:property cm:id="i0fp061lwpZHamS0R" cm:type="ps:datetime" cm:fixed="true" cm:readonly="true" cm:name="ps:Changed">
+          <cm:constant cm:id="iksbKiqIy-Raalyoy" cm:type="ps:datetime">2017-06-05T16:22:09.958Z</cm:constant>
+        </cm:property>
       </cm:properties>
       <cm:vname>
         <cm:mimedesc cm:id="iyHsia9gH6QrsS0cs" cm:mimetype="text/plain" cm:lang="de" cm:encoding="utf-8">Sprachen</cm:mimedesc>
@@ -260,12 +216,6 @@
           <cm:target cm:id="iCKI32v-w2GjgjsR4">./i3o2RSj4Fg7d7nNlj</cm:target>
         </cm:relation>
       </cm:relations>
-      <cm:properties>
-        
-        
-        
-        
-      </cm:properties>
       <cm:vname>
         <cm:mimedesc cm:id="iUnhcD5s41lHNfARD" cm:mimetype="text/plain" cm:lang="de" cm:encoding="utf-8">Luftdruck</cm:mimedesc>
         <cm:mimedesc cm:id="iQrkt0WT1TxMB30pA" cm:mimetype="text/plain" cm:encoding="utf-8">Air Pressure</cm:mimedesc>
@@ -278,12 +228,30 @@
           <cm:target cm:id="i-FaXM9S_wlqRQPWf">./iI3TBWouTV2fskyik</cm:target>
         </cm:relation>
       </cm:relations>
+    </cm:element>
+    <cm:element cm:id="iQICHKowTEMrEmbyq" cm:name="Basque" cm:type="ps:feature" cm:class="ps:feature">
+      <cm:relations cm:id="iUk2jdZrLDUjNu48t" cm:class="ps:parents">
+        <cm:relation cm:id="izOEe_S7mtvBvk8G6" cm:type="ps:parent">
+          <cm:target cm:id="ivG8woYgxAlahvI4F">./ir48hEVg8Y2CeMjeO</cm:target>
+        </cm:relation>
+      </cm:relations>
       <cm:properties>
-        
-        
-        
-        
+        <cm:property cm:id="iauLtB-28fxePBeuv" cm:type="ps:string" cm:fixed="true" cm:readonly="true" cm:name="ps:Source">
+          <cm:constant cm:id="imxnuDhu6k-6P8PfM" cm:type="ps:string">Onekin</cm:constant>
+        </cm:property>
+        <cm:property cm:id="iBUL_DF9UtqtnBW_U" cm:type="ps:datetime" cm:fixed="true" cm:readonly="true" cm:name="ps:Created">
+          <cm:constant cm:id="isNvPVils9-5-r2nV" cm:type="ps:datetime">2017-06-05T16:22:09.958Z</cm:constant>
+        </cm:property>
+        <cm:property cm:id="iGl8koMcbzj_HisnI" cm:type="ps:string" cm:fixed="true" cm:readonly="true" cm:name="ps:ChangedBy">
+          <cm:constant cm:id="iDcnIpSzSRmNzwF5F" cm:type="ps:string">Onekin</cm:constant>
+        </cm:property>
+        <cm:property cm:id="i3GkJYYwjPfaKXYIZ" cm:type="ps:datetime" cm:fixed="true" cm:readonly="true" cm:name="ps:Changed">
+          <cm:constant cm:id="i_X-4yrxUds_wIbUU" cm:type="ps:datetime">2017-06-05T16:22:09.958Z</cm:constant>
+        </cm:property>
       </cm:properties>
+      <cm:vname>
+        <cm:mimedesc cm:id="i5Pz3gnFA1pKQGSp3" cm:mimetype="text/plain" cm:encoding="utf-8">Basque</cm:mimedesc>
+      </cm:vname>
     </cm:element>
   </cm:elements>
 </cm:consulmodel>

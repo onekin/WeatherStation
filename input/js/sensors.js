@@ -71,10 +71,25 @@ function checkMeasure(min, max, measure) {
 	if (isNaN(parseInt(measure)) ||
 		parseInt(measure) < min ||
 		parseInt(measure) > max) {
-		alert("Bitte eine Zahl zwischen " + min + " und " + max + " eingeben!");
+		showAlert(measure,min,max);
 		return NaN;
 	}
 	return parseInt(measure);
+}
+
+function showAlert(measure, min,max){
+	// PV:IFCOND(pv:hasFeature('German'))
+	alert("Bitte eine Zahl zwischen " + min + " und " + max + " eingeben!");
+	// PV:ENDCOND
+	
+	// PV:IFCOND(pv:hasFeature('English'))
+	alert("Please, value should range from " + min + " to " + max);
+	// PV:ENDCOND
+	
+	// PV:IFCOND(pv:hasFeature('Basque'))
+	alert("Balioa " + min + " eta " + max + " arteakoak izan behar dira!");
+	// PV:ENDCOND
+	
 }
 
 function setWarnings() {
@@ -101,7 +116,11 @@ function setWarnings() {
 // PV:ENDCOND
 
 // PV:IFCOND(pv:hasFeature('English'))
-		if (warningText != '') warningText = 'Attention: ' + warningText;
+		warningText = 'Attention: ' + warningText;
+// PV:ENDCOND
+		
+// PV:IFCOND(pv:hasFeature('Basque'))
+		warningText = 'Kontuz: ' + warningText;
 // PV:ENDCOND
 
 		setElementText(element, warningText);

@@ -39,3 +39,12 @@ var tempWarning = 'Extreme Hitze';
 var windTitle = 'Windgeschwindigkeit';
 var windWarning = 'Sturmwarnung';
 // PV:ENDCOND
+
+//PV:IFCOND(pv:hasFeature('Basque'))
+var mainTitle = 'Eguraldi estazioa';
+var tempTitle = 'Tenperatura';
+var presTitle = 'Presioa';
+var tempWarning = 'Izugarrizko beroa!';
+var windTitle = 'Haize abiadura';
+var windWarning = 'Ekaitz arriskua';
+// PV:ENDCOND
