@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>WeatherStationHTML</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.ps.consul.eclipse.relationsbuilder.RelationsBuilder</name>
+			<arguments>
+				<dictionary>
+					<key>filetypes</key>
+					<value>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&lt;c&gt;&lt;i&gt;*.txt&lt;/i&gt;&lt;i&gt;*.xml&lt;/i&gt;&lt;i&gt;*.h&lt;/i&gt;&lt;i&gt;*.c&lt;/i&gt;&lt;i&gt;*.hh&lt;/i&gt;&lt;i&gt;*.cc&lt;/i&gt;&lt;i&gt;*.cxx&lt;/i&gt;&lt;i&gt;*.cpp&lt;/i&gt;&lt;i&gt;*.java&lt;/i&gt;&lt;i&gt;*.html&lt;/i&gt;&lt;i&gt;*.css&lt;/i&gt;&lt;i&gt;*.js&lt;/i&gt;&lt;/c&gt;</value>
+				</dictionary>
+				<dictionary>
+					<key>scantypes</key>
+					<value>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&lt;c&gt;&lt;i&gt;macros.pvs&lt;/i&gt;&lt;i&gt;store.pvs&lt;/i&gt;&lt;/c&gt;</value>
+				</dictionary>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.ps.consul.eclipse.relationsbuilder.RelationIndexNature</nature>
+	</natures>
+</projectDescription>

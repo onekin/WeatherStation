@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><projectDescription>
+	<name>WeatherStation</name>
+	<comment/>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.wst.jsdt.core.javascriptValidator</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.ps.consul.eclipse.relationsbuilder.RelationsBuilder</name>
+			<arguments>
+				<dictionary>
+					<key>filetypes</key>
+					<value>&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;&lt;c&gt;&lt;i&gt;*.txt&lt;/i&gt;&lt;i&gt;*.xml&lt;/i&gt;&lt;i&gt;*.h&lt;/i&gt;&lt;i&gt;*.c&lt;/i&gt;&lt;i&gt;*.hh&lt;/i&gt;&lt;i&gt;*.cc&lt;/i&gt;&lt;i&gt;*.cxx&lt;/i&gt;&lt;i&gt;*.cpp&lt;/i&gt;&lt;i&gt;*.java&lt;/i&gt;&lt;i&gt;*.js&lt;/i&gt;&lt;i&gt;*.css&lt;/i&gt;&lt;/c&gt;</value>
+				</dictionary>
+				<dictionary>
+					<key>scantypes</key>
+					<value>&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;&lt;c&gt;&lt;i&gt;store.pvs&lt;/i&gt;&lt;/c&gt;</value>
+				</dictionary>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.ps.consul.eclipse.core.ConsulNature</nature>
+		<nature>com.ps.consul.eclipse.relationsbuilder.RelationIndexNature</nature>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+	</natures>
+</projectDescription>
