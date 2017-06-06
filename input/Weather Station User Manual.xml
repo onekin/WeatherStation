@@ -22,12 +22,9 @@
     </sect1>
     <sect1 condition="pv:hasFeature('Temperature')">
         <title>Understanding the Thermometer</title>
-        <para>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
-            invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
-            accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
-            sanctus est Lorem ipsum dolor sit amet.</para>
+        <para>This is a paragraph is for describing feature "Temperature!".</para>
         <sect2 condition="pv:hasFeature('Heat')">
-            <title>High Temperature Warning</title>
+            <title>High temperature </title>
             <para>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</para>
         </sect2>
     </sect1>
